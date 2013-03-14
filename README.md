@@ -1,3 +1,7 @@
+![GSW Fueled by Blue Diesel](gsw.png "GSW Fueled by Blue Diesel")
+
+- - - - -
+
 ####Position Title:####
 
 Digital Engineer (Front-End Developer)
