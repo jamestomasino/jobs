@@ -2,6 +2,12 @@
 
 - - - - -
 
+###TL;DR###
+
+If you can write HTML5/CSS/JS code that isn't too embarassing to be on GitHub, contact us.
+
+- - - - -
+
 ####Position Title:####
 
 Digital Engineer (Front-End Developer)
