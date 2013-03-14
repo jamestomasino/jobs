@@ -30,11 +30,11 @@ As a Digital Engineer, based in Newtown, PA, you will be responsible for partner
 
 ####General and Daily Responsibilities:####
 
+* Demonstrated experience in HTML5, CSS3, JQuery
+* Demonstrated experience with Photoshop and Fireworks
+* Experience in iOS or Android development
 * Bring interfaces to life via Flex, AIR, Flash and Actionscript
 * Maintain existing Flash applications or Web properties
-* Demonstrated experience in HTML5, CSS3, JQuery
-* Experience in iOS or Android development
-* Demonstrated experience with Photoshop and Fireworks
 * Present work, provide design rationale, and defend work in technology reviews or meetings 
 * Collaborate with copywriters, strategists, account managers and other studio staff
 * Stay abreast on design techniques and trends
@@ -48,10 +48,10 @@ As a Digital Engineer, based in Newtown, PA, you will be responsible for partner
 ####Minimum Qualifications & Skills Required:####
 
 * Qualified candidates must have at least a minimum of 3-5 years experience working within the field of interactive media development
-* Demonstrated expertise of Actionscript 3.0, Flash, Flex and Air
 * Proficient knowledge of CSS3/HTML5/Javascript and JQuery, with understanding of how to translate comps to assets
 * Knowledge of iOS or Android development platforms
 * Knowledge of PHP and Ruby development languages
+* Demonstrated expertise of Actionscript 3.0, Flash, Flex and Air
 * Self-motivated, a natural problem-solver, and a good communicator with a demonstrated ability to oversee multiple projects simultaneously and work collaboratively in a team environment
 
 The ideal candidate will possess a Bachelor's degree or higher in multi-media design, computer science or similar. Agency experience required. Healthcare experience is a plus.
